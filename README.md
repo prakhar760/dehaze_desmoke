@@ -1,1 +1,1 @@
-# dedaze_desmoke
+# dehaze/desmoke
