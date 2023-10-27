@@ -1,18 +1,5 @@
-# FogRemoval [ACCV'2022]
+# FogRemoval
 ## Introduction
-> [Structure Representation Network and Uncertainty Feedback Learning for Dense Non-Uniform Fog Removal](https://openaccess.thecvf.com/content/ACCV2022/papers/Jin_Structure_Representation_Network_and_Uncertainty_Feedback_Learning_for_Dense_Non-Uniform_ACCV_2022_paper.pdf)
-> Asian Conference on Computer Vision (ACCV'2022)
-
-[[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Jin_Structure_Representation_Network_and_Uncertainty_Feedback_Learning_for_Dense_Non-Uniform_ACCV_2022_paper.pdf)
-[[Supp]](https://openaccess.thecvf.com/content/ACCV2022/supplemental/Jin_Structure_Representation_Network_ACCV_2022_supplemental.pdf)
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.03061)
-[[Poster]](https://www.dropbox.com/s/f3qjxx9jf3o7b6j/0393_poster.pdf?dl=0)
-[[Slides]](https://www.dropbox.com/s/fowkes8wnyr6rb1/0393_release.pdf?dl=0)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/structure-representation-network-and/nonhomogeneous-image-dehazing-on-nh-haze)](https://paperswithcode.com/sota/nonhomogeneous-image-dehazing-on-nh-haze?p=structure-representation-network-and)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/structure-representation-network-and/image-dehazing-on-o-haze)](https://paperswithcode.com/sota/image-dehazing-on-o-haze?p=structure-representation-network-and)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/structure-representation-network-and/image-dehazing-on-dense-haze)](https://paperswithcode.com/sota/image-dehazing-on-dense-haze?p=structure-representation-network-and)
-
 ## Datasets
 ### 1. [SMOKE Dataset](https://www.dropbox.com/sh/g30b8n308ftbrcl/AAA69OSu5DnOGyiyt9cG4pmma?dl=0)
 ```
